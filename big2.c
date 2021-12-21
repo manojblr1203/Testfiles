@@ -19,4 +19,4 @@ int main()
         printf("Both are Equal\n");
     }
     return 0;
-}
+}          #the last line of the program

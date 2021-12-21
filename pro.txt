@@ -1,0 +1,3 @@
+this is a test file
+to check the staging area and modified items in git
+We are making changes to check the skip the staging area
